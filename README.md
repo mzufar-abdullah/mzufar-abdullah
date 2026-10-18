@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohamed Zufar Abdullah
 
-<!--
-**mzufar-abdullah/mzufar-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & IT Officer from Colombo.
+I build business software and keep the systems behind it running.
 
-Here are some ideas to get you started:
+- 💼 Software Developer & IT Officer at **Potlatch Freighters**
+- 🍗 POS Systems Developer at **Frango Crispy Fried**
+- 🚀 Founder of **Codes Wind (Pvt) Ltd**: WindPOS (live at 8 businesses)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Java · Spring Boot · Spring Security · JWT · React · Node.js · PHP 8 · React Native
+MySQL · Docker · CapRover · Linux · REST APIs
+
+### Featured work
+| Project | What it is | Stack |
+|---|---|---|
+| [Task Management System](https://github.com/mzufar-abdullah/Task-Management-System) | REST API with JWT auth and roles | Spring Boot |
+| [User Management API](https://github.com/mzufar-abdullah/user-management-api) | User management REST service | Spring Boot |
+| [My-Shop](https://github.com/mzufar-abdullah/My-Shop) | Inventory system | Java |
+| [NS-Paradise](https://github.com/mzufar-abdullah/NS-Paradise) | E-commerce web app | PHP, MySQL |
+
+### Contact
+abdullahzufar83@gmail.com · [LinkedIn](https://linkedin.com/in/mzufar-abdullah)
